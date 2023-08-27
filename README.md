@@ -20,11 +20,17 @@ I'm always looking forward to connecting with fellow learners, developers, and a
 
 ## Projects (Private - may be available upon request)
 
-CS_Frogger
-CS_Todo
-Quiz site Project-Backend
+**CS_Frogger**: A simplified version of the arcade game Frogger
+
+**CS_Todo**: A Todo List system using C (Linked Lists)
+
+**Quiz site Project-Backend**: A Kahoot type backend server in TypeScript
+
+**Todo List Project-Backend**: A Todo list backend server in TypeScript
 
 
-Let's Git to work,
+
+
+Ready to Git started on this coding journey 🚀,
 
 Josh
