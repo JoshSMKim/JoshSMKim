@@ -18,6 +18,13 @@ I'm excited about the journey of discovering new concepts, sharpening my skills,
 
 I'm always looking forward to connecting with fellow learners, developers, and anyone who shares similar interests. Feel free to reach out to me through my GitHub or [LinkedIn](https://www.linkedin.com/in/joshua-kim-0a8906267/) profiles!
 
+## Projects (Private - may be available upon request)
+
+CS_Frogger
+CS_Todo
+Quiz site Project-Backend
+
+
 Let's Git to work,
 
 Josh
